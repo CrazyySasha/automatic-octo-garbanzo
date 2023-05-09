@@ -1,20 +1,14 @@
-<<<<<<< Updated upstream
-=======
+
 @font-face {
     font-family: "Neue Machina";
     src: url(../fonts/neue/NeueMachina-Regular.otf) format("opentype");
     font-weight: 400;
 }
 
->>>>>>> Stashed changes
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-<<<<<<< Updated upstream
-}
-
-=======
     font-family: "Neue Machina", sans-serif;
 }
 
@@ -22,7 +16,6 @@
     border: 1px solid #151515;
     padding: .25rem 1rem;
     color: #151515;
-
 }
 
 .section-title {
@@ -89,7 +82,6 @@
 .gap-1\.5rem {
     gap: 1.5rem;
 }
->>>>>>> Stashed changes
 
 /* 1 block  */
 
@@ -126,32 +118,11 @@
 
 /* 3 block  */
 
-<<<<<<< Updated upstream
-.text{
-=======
 .text {
->>>>>>> Stashed changes
     margin-top: 32px;
     font-size: 18px;
     line-height: 26px
 }
-<<<<<<< Updated upstream
-.text1{
-    margin-top: 80px;
-}
-.text2{
-    margin-top: 20px;
-}
-.h1{
-    font-weight: 400;
-    font-size: 60px;
-}
-.line{
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-/* 3 block tugadi */
-=======
 
 .text1 {
     margin-top: 80px;
@@ -172,4 +143,4 @@
 }
 
 /* 3 block tugadi */
->>>>>>> Stashed changes
+
