@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: "Neue Machina";
     src: url(../fonts/neue/NeueMachina-Regular.otf) format("opentype");
@@ -15,7 +16,6 @@
     border: 1px solid #151515;
     padding: .25rem 1rem;
     color: #151515;
-
 }
 
 .section-title {
@@ -144,3 +144,4 @@
 }
 
 /* 3 block tugadi */
+
